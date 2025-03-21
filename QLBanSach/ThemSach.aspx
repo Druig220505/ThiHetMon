@@ -22,6 +22,7 @@
         <div class="form-group">
             <label class="font-weight-bold">Ảnh bìa sách</label>
             <asp:FileUpload ID="FHinh" runat="server" CssClass="form-control-file" />
+
         </div>
         <div class="form-group">
             <label class="font-weight-bold">Khuyến mãi</label>
